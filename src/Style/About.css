@@ -1,0 +1,17 @@
+.text{
+    font-size: 12.24px;
+    position: relative;
+    display: flex;
+    /* align-items: center; */
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    width: 247px;
+    height: 61px;
+    top: 61px;
+   
+
+}
+h1{
+    font-size: 16px;
+}

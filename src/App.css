@@ -1,0 +1,27 @@
+html{
+  font-size: 62.5%;
+}
+
+body{
+    background-color: #23252C;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 86rem; */
+    padding-top: 100px;
+}
+.App{
+    position: relative;
+    width: 350px;
+    height: 60rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* justify-content: start; */
+    color: white;
+    background-color: #1A1B21;
+    border-radius: 5px;
+}
